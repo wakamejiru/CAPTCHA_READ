@@ -1,0 +1,8 @@
+{
+    "character_accuracy": 0.6696975057491598,
+    "captcha_accuracy": 0.19631169290642136,
+    "total_captchas": 22612,
+    "correct_captchas": 4439,
+    "total_chars": 113060,
+    "correct_chars": 75716
+}
