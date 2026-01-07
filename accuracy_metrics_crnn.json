@@ -1,0 +1,6 @@
+{
+    "model": "CRNN",
+    "captcha_accuracy": 0.7769768264638245,
+    "total_captchas": 22612,
+    "correct_captchas": 17569
+}
